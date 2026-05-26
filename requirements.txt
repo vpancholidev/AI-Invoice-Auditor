@@ -1,0 +1,5 @@
+uvicorn
+langgraph
+langchain
+fastapi
+pydentic
